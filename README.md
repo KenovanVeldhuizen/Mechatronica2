@@ -1,2 +1,1 @@
-# Mechatronica2
-homework
+# MyRepository
